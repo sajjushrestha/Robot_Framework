@@ -16,7 +16,7 @@ MyFirstTest
     
 MySecondTest
     
-    Log    Hello World..  
+    Log    Inside MySecondTest 
     
 HRM
     [Tags]    Smoke
